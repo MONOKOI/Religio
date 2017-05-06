@@ -4,7 +4,7 @@
 | ---------               | ----------------------------- |
   TV, NFLX                | Business News, YT Lectures
   Fictional Novels        | History, Philosophy, Math, Instruction
-|                         |                |
+| Retail                                 |
   Retail Shopping         | Amazon, Grocery Shopping
   Buy Trinkets            | Master Enduring Tools
   Bling Clothing          | Sturdy Shoes, All Purpose Unforms

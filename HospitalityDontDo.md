@@ -6,6 +6,7 @@
   TV, NFLX                | Business News, YT Lectures
   Fictional Novels        | History, Philosophy, Math, Instruction
   Films                   | Museums, Parks
+  Pop Radio               | Instrumental Music
 | RETAIL                  |
   Retail Shopping         | Amazon, Grocery Shopping
   Buy Trinkets            | Master Enduring Tools

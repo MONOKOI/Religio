@@ -1,10 +1,10 @@
 # FAQ
 
-1. _What Is Monokoi?_ Monokoi is A network Of ecumenical working monasteries located in urban city centers where monks and nuns live and work together.     
+1. _What Is Monokoi?_ Monokoi is A network Of **ecumenical working communal monasteries** located in **urban city centers** where monks and nuns **live and work together**.     
   
 1. _Why Monokoi?_ Mono is single. That Greek word is where we get monks. Koi ponds are architectural homes for Koi fish. Koi grow better in accord with the architectural and ecological refinement of the Koi ponds. Monokoi are Urban Koi Ponds for monastic quiet living scholarly single people.
 
-1. _Why Monasteries?_ Because we do not have to form families to live and work better together responsibly. Group buying, cooking, cleaning and scheduling lets us live far better quietly on training for fewer hours of skilled work. 
+1. _Why Monasteries?_ Because we do not have to form families to live and work better together responsibly. Group buying, cooking, cleaning and scheduling lets us live better lives quietly training for fewer hours of skilled work weekly. 
 
 1. _Why Cities?_ Cities offer car free safe neighborhoods near public transportation, churches, airports, bus terminals, train stations, museums, small shops, public parks, libraries and universities. Those are things Monokoi values.
 

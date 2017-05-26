@@ -1,4 +1,50 @@
 # Hippie Deluxe
+
+
+## Food Stuffs
+
+1. Bodies, terrains, seasons and weather come individually allocated. 
+1. Optimize by week.  
+1. We are not optimizing for novelty or muscle mass. 
+1. Add virtuous novelty on top of a stellar rhythm section.
+1. Optimize for economy, longevity, immune health and focus
+1. We are not optimizing for fashion or fetish
+1. Set and remember; not set and forget.
+1. Fasting is a good part of dietary and spirirual regimens
+
+### Basic Weekly Rations
+
+1. Brown rice via rice coooker
+1. Turnip, dal w/ghee
+1. Greens, Cabbage, Carrots, Radish, Potoes Soup w/Miso (Option Chicken)
+1. Oily fish like sardines or eel
+1. Kimchi, Kraut & live pickled vegetables (Miso & Braggs) 
+1. White vinegar & sugar pickles
+1. Hummus, raw onion and flatbred 
+1. Bananas, Flaxseed, Yogurt
+1. Apples & Nut Butter (Mix peanut & sunflower seeds)
+1. Sweet potatoes, raisin and coconut oil
+1. Green tea & ginger raisin
+1. Miso, olive oil, parsley, cilantro, ginger, garlic, chiles, sea salt 
+1. Lime juice, Braggs vinegar
+
+### Quality Criteria
+
+1. Enduring efficient outcomes for enduring efficient people
+1. Waste little water; but rinse and soak grains
+1. Measure and weigh before optimizing
+1. Optimize to optimize something else
+1. Always fresh; organics where it counts most;
+1. Add small bits of high quality variety
+1. Price is different than quality
+1. Fake is expensive at all prices
+1. Preparation quality counts more: roasted vegegatables are a treat.
+1. Bruised greens are more healthful. Find options and make stocks from peelings.
+1. Waste as little as possible, but do no harm. Research and test.
+1. Make taste good.
+1. You control the mix. Daily consistency is wrong.
+
+
 # Heavy Teknon
 
 ## Fishermen Of Voices

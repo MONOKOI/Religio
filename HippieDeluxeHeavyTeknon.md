@@ -3,17 +3,24 @@
 
 ## Food Stuffs
 
-1. Bodies, terrains, seasons and weather come individually allocated. 
-1. Optimize by week.  
-1. We are not optimizing for novelty or muscle mass. 
-1. Add virtuous novelty on top of a stellar rhythm section.
-1. Optimize for economy, longevity, immune health and focus
-1. We are not optimizing for fashion or fetish
-1. Set and remember; not set and forget.
-1. Fasting is a good part of dietary and spirirual regimens
+### Quality Criteria
+1. Bodies, terrains, seasons and weather come individually allocated.
+1. Live from ingredients and responsive make quality criteria applicable.
+1. There is no best milkshake for lactose intollerant people.
+1. Menu are neither secrets nor choices. 
+
+### Efficiencies
+1. We optimize amid constraints and uncertaintly by week, season, year and lifetime.  
+1. We optimize for economy, longevity, immune health and focus 
+1. We are not optimizing for attention, novelty, fashion or fetish
+1. We are not optimizing for muscle mass. 
+1. Add virtuous novelty on top of a stellar reliable rhythm section.
+1. We want to set a compass away from bad options inside us.
+
 
 ### Basic Weekly Rations
-
+1. The point of eating is not eating and not eating eating.
+1. Scheduled fasting is a good part of healthy dietary regimens.
 1. Brown rice via rice coooker
 1. Turnip, dal w/ghee
 1. Greens, Cabbage, Carrots, Radish, Potoes Soup w/Miso (Option Chicken)

@@ -1,5 +1,9 @@
 # Hippie Deluxe
 
+## Representations
+1. We not want the glitter of a representation to delude its merit.
+1. We seek the soft rough edges of accuracy before precision.
+1. Representations are guides not targets.
 
 ## Food Stuffs
 

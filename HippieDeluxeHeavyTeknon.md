@@ -91,6 +91,7 @@ Tool Conservative. We do not fetishize complicated tools. Efficient repeatabilit
 1. [Carrot](https://en.wikipedia.org/wiki/Carrot)
 1. [Yellow Onion](https://en.wikipedia.org/wiki/Yellow_onion)
 1. [Turnip](https://en.wikipedia.org/wiki/Turnip)
+1. [Red Potato](https://en.wikipedia.org/wiki/Potato)
 1. [Bell Pepper](https://en.wikipedia.org/wiki/Bell_pepper)
 1. [Zucchini](https://en.wikipedia.org/wiki/Zucchini)
 1. [Radish](https://en.wikipedia.org/wiki/Radish)

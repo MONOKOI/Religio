@@ -76,37 +76,54 @@ Our hands over normal days in normal kitchens transform commodities into food st
 
 ## Ingredients 
 
-1. [Miso](https://en.wikipedia.org/wiki/Miso) 
-2. [Olive Oil](https://en.wikipedia.org/wiki/Olive_oil)
-3. [Parsley](https://en.wikipedia.org/wiki/Parsley)
-4. [Cilantro/Coriander](https://en.wikipedia.org/wiki/Coriander)
-5. [Ginger](https://en.wikipedia.org/wiki/Ginger)
-6. [Garlic](https://en.wikipedia.org/wiki/Garlic)
-7. [Chiles](https://en.wikipedia.org/wiki/Jalape%C3%B1o)
-7. [Cinammon](https://en.wikipedia.org/wiki/Cinnamon)
-7. [Cloves](https://en.wikipedia.org/wiki/Clove)
-7. [All Spice Berry](https://en.wikipedia.org/wiki/Allspice)
-7. [Cardomom Pod](https://en.wikipedia.org/wiki/Cardamom)
-7. [Bay Laurel Leaves](https://en.wikipedia.org/wiki/Laurus_nobilis)
-8. [Sea salt](https://en.wikipedia.org/wiki/Sea_salt)
-1. [Lime Juice](https://en.wikipedia.org/wiki/Lime_(fruit))
-1. [Lemon Juice](https://en.wikipedia.org/wiki/Lemon)
-1. [Braggs vinegar](https://en.wikipedia.org/wiki/Apple_cider_vinegar)
-1. [Apples](https://en.wikipedia.org/wiki/Apple)
-1. [Bananas](https://en.wikipedia.org/wiki/Banana)
+1. [Chickpeas](https://en.wikipedia.org/wiki/Chickpea)
+1. [Red Lentils](https://en.wikipedia.org/wiki/Lentil)
+
 1. [Collard Greens](https://en.wikipedia.org/wiki/Collard_greens)
 1. [Cabbage](https://en.wikipedia.org/wiki/Cabbage)
-1. [Flax Seed](https://en.wikipedia.org/wiki/Flax#Flax_seeds)
-1. [Tahini](https://en.wikipedia.org/wiki/Tahini)
-1. [Peanut Butter](https://en.wikipedia.org/wiki/Peanut_butter)
-1. [Sesame Seeds](https://en.wikipedia.org/wiki/Sesame)
 1. [Fennel](https://en.wikipedia.org/wiki/Fennel)
 1. [Carrot](https://en.wikipedia.org/wiki/Carrot)
 1. [Yellow Onion](https://en.wikipedia.org/wiki/Yellow_onion)
 1. [Turnip](https://en.wikipedia.org/wiki/Turnip)
 1. [Radish](https://en.wikipedia.org/wiki/Radish)
+3. [Parsley](https://en.wikipedia.org/wiki/Parsley)
+4. [Cilantro/Coriander](https://en.wikipedia.org/wiki/Coriander)
+
+1. [Apples](https://en.wikipedia.org/wiki/Apple)
+1. [Bananas](https://en.wikipedia.org/wiki/Banana)
+1. [Prune](https://en.wikipedia.org/wiki/Prune)
+1. [Raisin](https://en.wikipedia.org/wiki/Raisin)
+
 1. [Chicken](https://en.wikipedia.org/wiki/Chicken)
 1. [Chicken Giblets](https://en.wikipedia.org/wiki/Giblets)
+
+1. [Miso](https://en.wikipedia.org/wiki/Miso) 
+2. [Olive Oil](https://en.wikipedia.org/wiki/Olive_oil)
+1. [Braggs vinegar](https://en.wikipedia.org/wiki/Apple_cider_vinegar)
+1. [Tahini](https://en.wikipedia.org/wiki/Tahini)
+1. [Yogurt](https://en.wikipedia.org/wiki/Yogurt)
+
+5. [Ginger](https://en.wikipedia.org/wiki/Ginger)
+6. [Garlic](https://en.wikipedia.org/wiki/Garlic)
+7. [Chiles](https://en.wikipedia.org/wiki/Jalape%C3%B1o)
+1. [Lime Juice](https://en.wikipedia.org/wiki/Lime_(fruit))
+1. [Lemon Juice](https://en.wikipedia.org/wiki/Lemon)
+
+7. [Cinammon](https://en.wikipedia.org/wiki/Cinnamon)
+7. [Cloves](https://en.wikipedia.org/wiki/Clove)
+7. [All Spice Berry](https://en.wikipedia.org/wiki/Allspice)
+7. [Cardomom Pod](https://en.wikipedia.org/wiki/Cardamom)
+7. [Bay Laurel Leaves](https://en.wikipedia.org/wiki/Laurus_nobilis)
+8. [Thyme](https://en.wikipedia.org/wiki/Thyme)
+1. [Pepper Flakes](https://en.wikipedia.org/wiki/Crushed_red_pepper)
+1. [Cumin](https://en.wikipedia.org/wiki/Cumin)
+8. [Sea salt](https://en.wikipedia.org/wiki/Sea_salt)
+
+1. [Flax Seed](https://en.wikipedia.org/wiki/Flax#Flax_seeds)
+1. [Peanut Butter](https://en.wikipedia.org/wiki/Peanut_butter)
+1. [Sesame Seeds](https://en.wikipedia.org/wiki/Sesame)
+1. [Green Tea](https://en.wikipedia.org/wiki/Green_tea)
+
 
 
 

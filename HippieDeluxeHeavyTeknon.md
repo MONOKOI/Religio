@@ -1,25 +1,26 @@
 # Hippie Deluxe
 
 ## Representations
-1. We not want the glitter of a representation to delude its merit.
-1. We seek the soft rough edges of accuracy before precision.
-1. Representations are guides not targets.
 
-## Food Stuffs
+This is not commemorative. These recipes are guides and not targets. The targets are better bowels, immune systems, ways of suriving days, heads and hands at work together. Let no glitter of any representation delude its merit.
+
 
 ### Quality Criteria
-1. Bodies, terrains, seasons and weather come individually allocated.
-1. Live from ingredients and responsive make quality criteria applicable.
-1. There is no best milkshake for lactose intollerant people.
-1. Menu are neither secrets nor choices. 
 
-### Efficiencies
-1. We optimize amid constraints and uncertaintly by week, season, year and lifetime.  
-1. We optimize for economy, longevity, immune health and focus 
-1. We are not optimizing for attention, novelty, fashion or fetish
-1. We are not optimizing for muscle mass. 
-1. Add virtuous novelty on top of a stellar reliable rhythm section.
-1. We want to set a compass away from bad options inside us.
+We have weakened immune systems on North America due to poor diet. Diet is our first line of defense. Invasive pills or injections are unwise where they conflict against bad diets.
+
+Direct inputs cost are one criteria. We cannot let imaginary costs excuse laziness, bad habits, worse expectations, denial or outright malice. Our quality criteria come responsive and live in accountable human beings reading this. Our quality criteria do not come packaged from afar or merely claimed by hearsay.
+
+Bodies, terrains, seasons and weather come individually allocated. Americans from many continents move frequently and suffer untold overlapping allergies to pollens and molds. It is so common we ignore the pathologies as bodies get sicker and miss out on life.
+
+Live fresh and dried commodity ingredients. Vegetables, brown rice and pulses. We skip varieties of things come frozen for sound medical reasons to focus on better fresh options. Freezing breaks down plant cellulose and frozen foods are treated with preservatives.  
+
+We select for low cost authentic non-luxury processed commodity ingredients: olive oil, tahini, miso and so forth. We are pragmatists first. 
+
+Our hands over normal days in normal kitchens transform commodities into food stuffs. We do not fetishize complicated tools. Efficient repeatability is our first goal. Variety in our diets should go with this near daily regimen. Other meals or treats should match these quality criteria from local skilled small business. We never need waste a single meal eat factory food prepared by unskilled people.
+
+1. We optimize amid constraints and uncertaintly by week, season, year and lifetime economy, longevity, immune health and focus. 
+1. We are not optimizing for attention, novelty, fashion, fetish or muscle mass. 
 
 
 ### Basic Weekly Rations

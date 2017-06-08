@@ -76,9 +76,9 @@ Our hands over normal days in normal kitchens transform commodities into food st
 
 ## Ingredients 
 
-1. Miso 
-2. Olive Oil
-3. Parsley
+1. [Miso](https://en.wikipedia.org/wiki/Miso) 
+2. [Olive Oil](https://en.wikipedia.org/wiki/Olive_oil)
+3. [Parsley](https://en.wikipedia.org/wiki/Parsley)
 4. Cilantro
 5. Ginger
 6. Garlic

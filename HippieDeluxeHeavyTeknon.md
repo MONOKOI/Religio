@@ -4,16 +4,18 @@
 
 This is not a commemorative or style guide cookbook. These recipes are are not targets but guides for immune and digestive systems needing effective regimented managements. The targets are better bowels, immune systems, and ways of suriving days skillful heads and hands at work together. Let no glitter of any representation delude its merit.
 
+GitHub lets us refine, update and annotate this document. Good annotations add clarity, process wisdom Or virtuous substitutions. We want to maintain focus around a convenient human scaled food prep regimen friendly to bowel health, immune health and everyday budgets.
+
 
 ## Quality Criteria
 
-Purpose. We have weakened immune systems on North America due to poor diet. Diet is our first line of defense. Invasive pills or injections are unwise where they conflict against bad diets.
+Purpose. We have inflammation and weakened immune systems on North America due to innappropriate diet. Diet is our first line of defense. Invasive pills, inhalants or injections are unwise where they conflict against bad diets. Factory foods are specifically predictably not healthy for guts and immune systems.
 
-Slow Time. We take time for homemade cooking by turning off scheduled TV and outings into car traffic. Cooking teaches process and focus. We should strive to share cook time and teach Hippie Deluxe.
+Slow Time. We take time for homemade cooking away from scheduled TV and outings into car traffic. Cooking teaches process and focus. We should strive to share cook time with others and teach Hippie Deluxe.
 
 Low Cost. Inputs cost are a major criteria. By keeping commodity costs low we add another incentive for healthy eating and take away excuses for bad habits.
 
-Common Ingredients. These ingredients are in most grocery stores or online. Common does not mean televised. 
+Common Ingredients. These ingredients are in most grocery stores or online. Common does not mean televised. Our primary goal is to boost immune health and keep inflammation low. 
 
 Live Skills. Our hands over normal days in normal kitchens transform commodities into food stuffs. Live food prep makes for responsiveness and accountability.
 

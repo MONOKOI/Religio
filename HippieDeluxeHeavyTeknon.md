@@ -110,6 +110,7 @@ Tool Conservative. We do not fetishize complicated tools. Efficient repeatabilit
 
 1. [Chicken](https://en.wikipedia.org/wiki/Chicken)
 1. [Chicken Giblets](https://en.wikipedia.org/wiki/Giblets)
+1. [Sardines](https://en.wikipedia.org/wiki/Sardines_as_food)
 
 1. [Kimchi](https://en.wikipedia.org/wiki/Kimchi)
 1. [Miso](https://en.wikipedia.org/wiki/Miso) 

@@ -2,22 +2,28 @@
 
 ## Representations
 
-This is not commemorative. These recipes are guides and not targets. The targets are better bowels, immune systems, ways of suriving days, heads and hands at work together. Let no glitter of any representation delude its merit.
+This is not a commemorative or style guide cookbook. These recipes are are not targets but guides for immune and digestive systems needing effective regimented managements. The targets are better bowels, immune systems, and ways of suriving days skillful heads and hands at work together. Let no glitter of any representation delude its merit.
 
 
 ## Quality Criteria
 
-We have weakened immune systems on North America due to poor diet. Diet is our first line of defense. Invasive pills or injections are unwise where they conflict against bad diets.
+Purpose. We have weakened immune systems on North America due to poor diet. Diet is our first line of defense. Invasive pills or injections are unwise where they conflict against bad diets.
 
-Direct inputs cost are one criteria. We cannot let imaginary costs excuse laziness, bad habits, worse expectations, denial or outright malice. Our quality criteria come responsive and live in accountable human beings reading this. Our quality criteria do not come packaged from afar or merely claimed by hearsay.
+Slow Time. We take time for homemade cooking by turning off scheduled TV and outings into car traffic. Cooking teaches process and focus. We should strive to share cook time and teach Hippie Deluxe.
 
-Bodies, terrains, seasons and weather come individually allocated. Americans from many continents move frequently and suffer untold overlapping allergies to pollens and molds. It is so common we ignore the pathologies as bodies get sicker and miss out on life.
+Low Cost. Inputs cost are a major criteria. By keeping commodity costs low we add another incentive for healthy eating and take away excuses for bad habits.
 
-Live fresh and dried commodity ingredients. Vegetables, brown rice and pulses. We skip varieties of things come frozen for sound medical reasons to focus on better fresh options. Freezing breaks down plant cellulose and frozen foods are treated with preservatives.  
+Common Ingredients. These ingredients are in most grocery stores or online. Common does not mean televised. 
 
-We select for low cost authentic non-luxury processed commodity ingredients: olive oil, tahini, miso and so forth. We are pragmatists first. 
+Live Skills. Our hands over normal days in normal kitchens transform commodities into food stuffs. Live food prep makes for responsiveness and accountability.
 
-Our hands over normal days in normal kitchens transform commodities into food stuffs. We do not fetishize complicated tools. Efficient repeatability is our first goal. Variety in our diets should go with this near daily regimen. Other meals or treats should match these quality criteria from local skilled small business. We never need waste a single meal eat factory food prepared by unskilled people.
+Pattern Response. Bodies, terrains, seasons and weather come individually allocated. Americans from many continents move frequently and suffer untold overlapping allergies to pollens and molds. It is so common we ignore the pathologies as bodies get sicker and miss out on life.
+
+Fresh. fresh and dried commodity ingredients. Vegetables, brown rice and pulses. We skip varieties of things come frozen for sound medical reasons to focus on better fresh options. Freezing breaks down plant cellulose and frozen foods are treated with preservatives.  
+
+Authentic. Adequate processed commodity ingredients: olive oil, tahini, miso and so forth. We are pragmatists first. 
+
+Tool Conservative. We do not fetishize complicated tools. Efficient repeatability is our first goal. Variety in our diets should go with this near daily regimen. Other meals or treats should match these quality criteria from local skilled small business. We never need waste a single meal eat factory food prepared by unskilled people.
 
 1. We optimize amid constraints and uncertaintly by week, season, year and lifetime economy, longevity, immune health and focus. 
 1. We are not optimizing for attention, novelty, fashion, fetish or muscle mass. 
@@ -85,6 +91,8 @@ Our hands over normal days in normal kitchens transform commodities into food st
 1. [Carrot](https://en.wikipedia.org/wiki/Carrot)
 1. [Yellow Onion](https://en.wikipedia.org/wiki/Yellow_onion)
 1. [Turnip](https://en.wikipedia.org/wiki/Turnip)
+1. [Bell Pepper](https://en.wikipedia.org/wiki/Bell_pepper)
+1. [Zucchini](https://en.wikipedia.org/wiki/Zucchini)
 1. [Radish](https://en.wikipedia.org/wiki/Radish)
 3. [Parsley](https://en.wikipedia.org/wiki/Parsley)
 4. [Cilantro/Coriander](https://en.wikipedia.org/wiki/Coriander)
@@ -97,11 +105,13 @@ Our hands over normal days in normal kitchens transform commodities into food st
 1. [Chicken](https://en.wikipedia.org/wiki/Chicken)
 1. [Chicken Giblets](https://en.wikipedia.org/wiki/Giblets)
 
+1. [Kimchi](https://en.wikipedia.org/wiki/Kimchi)
 1. [Miso](https://en.wikipedia.org/wiki/Miso) 
 2. [Olive Oil](https://en.wikipedia.org/wiki/Olive_oil)
+1. [Ghee](https://en.wikipedia.org/wiki/Ghee)
+1. [Coconut Oil](https://en.wikipedia.org/wiki/Coconut_oil)
 1. [Braggs vinegar](https://en.wikipedia.org/wiki/Apple_cider_vinegar)
 1. [Tahini](https://en.wikipedia.org/wiki/Tahini)
-1. [Yogurt](https://en.wikipedia.org/wiki/Yogurt)
 
 5. [Ginger](https://en.wikipedia.org/wiki/Ginger)
 6. [Garlic](https://en.wikipedia.org/wiki/Garlic)
@@ -119,6 +129,7 @@ Our hands over normal days in normal kitchens transform commodities into food st
 1. [Cumin](https://en.wikipedia.org/wiki/Cumin)
 8. [Sea salt](https://en.wikipedia.org/wiki/Sea_salt)
 
+1. [Yogurt](https://en.wikipedia.org/wiki/Yogurt)
 1. [Flax Seed](https://en.wikipedia.org/wiki/Flax#Flax_seeds)
 1. [Peanut Butter](https://en.wikipedia.org/wiki/Peanut_butter)
 1. [Sesame Seeds](https://en.wikipedia.org/wiki/Sesame)

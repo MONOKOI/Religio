@@ -84,6 +84,9 @@ Tool Conservative. We do not fetishize complicated tools. Efficient repeatabilit
 
 1. [Chickpeas](https://en.wikipedia.org/wiki/Chickpea)
 1. [Red Lentils](https://en.wikipedia.org/wiki/Lentil)
+1. [Brown Rice](https://en.wikipedia.org/wiki/Brown_rice)
+1. [Wholewheat Lavash](https://en.wikipedia.org/wiki/Lavash)
+1. [Quinoa](https://en.wikipedia.org/wiki/Quinoa)
 
 1. [Collard Greens](https://en.wikipedia.org/wiki/Collard_greens)
 1. [Cabbage](https://en.wikipedia.org/wiki/Cabbage)

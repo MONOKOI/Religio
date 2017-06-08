@@ -79,30 +79,34 @@ Our hands over normal days in normal kitchens transform commodities into food st
 1. [Miso](https://en.wikipedia.org/wiki/Miso) 
 2. [Olive Oil](https://en.wikipedia.org/wiki/Olive_oil)
 3. [Parsley](https://en.wikipedia.org/wiki/Parsley)
-4. Cilantro
-5. Ginger
-6. Garlic
-7. Chiles
-7. Cinammon
-7. Cloves
-7. All Spice Berry
-7. Cardomom Pod
-7. Bay Laurel Leaves
-8. Sea salt 
-1. Lime Juice
-1. Lemon Juice
-1. Braggs vinegar
-1. Apples
-1. Bananas
-1. Greens
-1. Cabbage
-1. Flax Seed
-1. Tahinia
-1. Peanut Butter
-1. Turnip
-1. Radish
-1. Fennel
-1. Chicken
+4. [Cilantro/Coriander](https://en.wikipedia.org/wiki/Coriander)
+5. [Ginger](https://en.wikipedia.org/wiki/Ginger)
+6. [Garlic](https://en.wikipedia.org/wiki/Garlic)
+7. [Chiles](https://en.wikipedia.org/wiki/Jalape%C3%B1o)
+7. [Cinammon](https://en.wikipedia.org/wiki/Cinnamon)
+7. [Cloves](https://en.wikipedia.org/wiki/Clove)
+7. [All Spice Berry](https://en.wikipedia.org/wiki/Allspice)
+7. [Cardomom Pod](https://en.wikipedia.org/wiki/Cardamom)
+7. [Bay Laurel Leaves](https://en.wikipedia.org/wiki/Laurus_nobilis)
+8. [Sea salt](https://en.wikipedia.org/wiki/Sea_salt)
+1. [Lime Juice](https://en.wikipedia.org/wiki/Lime_(fruit))
+1. [Lemon Juice](https://en.wikipedia.org/wiki/Lemon)
+1. [Braggs vinegar](https://en.wikipedia.org/wiki/Apple_cider_vinegar)
+1. [Apples](https://en.wikipedia.org/wiki/Apple)
+1. [Bananas](https://en.wikipedia.org/wiki/Banana)
+1. [Collard Greens](https://en.wikipedia.org/wiki/Collard_greens)
+1. [Cabbage](https://en.wikipedia.org/wiki/Cabbage)
+1. [Flax Seed](https://en.wikipedia.org/wiki/Flax#Flax_seeds)
+1. [Tahini](https://en.wikipedia.org/wiki/Tahini)
+1. [Peanut Butter](https://en.wikipedia.org/wiki/Peanut_butter)
+1. [Sesame Seeds](https://en.wikipedia.org/wiki/Sesame)
+1. [Fennel](https://en.wikipedia.org/wiki/Fennel)
+1. [Carrot](https://en.wikipedia.org/wiki/Carrot)
+1. [Yellow Onion](https://en.wikipedia.org/wiki/Yellow_onion)
+1. [Turnip](https://en.wikipedia.org/wiki/Turnip)
+1. [Radish](https://en.wikipedia.org/wiki/Radish)
+1. [Chicken](https://en.wikipedia.org/wiki/Chicken)
+1. [Chicken Giblets](https://en.wikipedia.org/wiki/Giblets)
 
 
 

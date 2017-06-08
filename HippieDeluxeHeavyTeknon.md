@@ -5,7 +5,7 @@
 This is not commemorative. These recipes are guides and not targets. The targets are better bowels, immune systems, ways of suriving days, heads and hands at work together. Let no glitter of any representation delude its merit.
 
 
-### Quality Criteria
+## Quality Criteria
 
 We have weakened immune systems on North America due to poor diet. Diet is our first line of defense. Invasive pills or injections are unwise where they conflict against bad diets.
 
@@ -23,22 +23,51 @@ Our hands over normal days in normal kitchens transform commodities into food st
 1. We are not optimizing for attention, novelty, fashion, fetish or muscle mass. 
 
 
-### Basic Weekly Rations
-1. The point of eating is not eating and not eating eating.
-1. Scheduled fasting is a good part of healthy dietary regimens.
-1. Brown rice via rice coooker
-1. Turnip, dal w/ghee
-1. Greens, Cabbage, Carrots, Radish, Potoes Soup w/Miso (Option Chicken)
-1. Oily fish like sardines or eel
-1. Kimchi, Kraut & live pickled vegetables (Miso & Braggs) 
-1. White vinegar & sugar pickles
-1. Hummus, raw onion and flatbred 
-1. Bananas, Flaxseed, Yogurt
-1. Apples & Nut Butter (Mix peanut & sunflower seeds)
-1. Sweet potatoes, raisin and coconut oil
-1. Green tea & ginger raisin
+## Core Monthly Diet
+
+### Foods
+1. Brown Rice and Quinoa
+1. Red Lentil and Turnip Dal
+1. Vegetable Soup Greens, Cabbage, Carrots, Radish, Potoes w/Miso
+1. Live Pickled Vegetables
+1. Hummus, Raw Onion and Whole Grain Flatbred 
+1. Mashed Sweet Potatoes
+1. Bananas, Yogurt and Ground Flax Seed
+1. Apples & Peanut Butter
+1. Eggs Hard Boiled In Soup Or Dal 
+1. Oily Fish
+
+### Drinks
+1. Green Tea and Fresh Ginger
+1. Black Coffee
+1. Fresh Lime Juice
+1. Apple Cider Vinegar
+1. Water
+1. Baking Soda and Water Rinse
+
+
+## Tools
+
+Two Large Pots
+
+Two Small Pots
+
+Baking Sheet
+
+Ladel, Spoon, Cup Measure, Large Knife, Small Knife.
+
+Rice Cooker
+
+Food Processor
+
+
+
+## Ingredients 
+
 1. Miso, olive oil, parsley, cilantro, ginger, garlic, chiles, sea salt 
 1. Lime juice, Braggs vinegar
+
+
 
 ### Quality Criteria
 

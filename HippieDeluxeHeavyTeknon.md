@@ -26,18 +26,27 @@ Our hands over normal days in normal kitchens transform commodities into food st
 ## Core Monthly Diet
 
 ### Foods
+
 1. Brown Rice and Quinoa
 1. Red Lentil and Turnip Dal
-1. Vegetable Soup Greens, Cabbage, Carrots, Radish, Potoes w/Miso
+1. Vegetable Soup Greens, Cabbage, Carrots, Radish, Potoes, Prunes w/Miso
 1. Live Pickled Vegetables
+
 1. Hummus, Raw Onion and Whole Grain Flatbred 
+
 1. Mashed Sweet Potatoes
+
 1. Bananas, Yogurt and Ground Flax Seed
 1. Apples & Peanut Butter
+
 1. Eggs Hard Boiled In Soup Or Dal 
+
 1. Oily Fish
+1. Roast Vegetables
+1. Chicken Livers Or Gizards
 
 ### Drinks
+
 1. Green Tea and Fresh Ginger
 1. Black Coffee
 1. Fresh Lime Juice
@@ -45,27 +54,55 @@ Our hands over normal days in normal kitchens transform commodities into food st
 1. Water
 1. Baking Soda and Water Rinse
 
+### Condiments
 
-## Tools
+1. Fresh lemon, fresh ginger, fresh garlic, fresh chiles
 
-Two Large Pots
+## Cooking Tools
 
-Two Small Pots
+1. Two Large Soup Pots
+1. Two Medium Sauce Pots
+1. Baking Sheet
+1. Utensils: Ladel, Kitchen Spoon, Spoon Measure, Cup Measure, Large Knife, Small Knife, Skewers.
 
-Baking Sheet
+1. Rice Cooker
+1. Food Processor
+1. Thermometer
 
-Ladel, Spoon, Cup Measure, Large Knife, Small Knife.
-
-Rice Cooker
-
-Food Processor
-
+1. Tinfoil, small sealable bags, large sealable bags
+1. Large and medium plastic storage with covers
+1. Towels, clothes, sponge, pot holder
 
 
 ## Ingredients 
 
-1. Miso, olive oil, parsley, cilantro, ginger, garlic, chiles, sea salt 
-1. Lime juice, Braggs vinegar
+1. Miso 
+2. Olive Oil
+3. Parsley
+4. Cilantro
+5. Ginger
+6. Garlic
+7. Chiles
+7. Cinammon
+7. Cloves
+7. All Spice Berry
+7. Cardomom Pod
+7. Bay Laurel Leaves
+8. Sea salt 
+1. Lime Juice
+1. Lemon Juice
+1. Braggs vinegar
+1. Apples
+1. Bananas
+1. Greens
+1. Cabbage
+1. Flax Seed
+1. Tahinia
+1. Peanut Butter
+1. Turnip
+1. Radish
+1. Fennel
+1. Chicken
 
 
 

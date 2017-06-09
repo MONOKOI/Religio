@@ -33,28 +33,32 @@ Tool Conservative. We do not fetishize complicated tools. Efficient repeatabilit
 
 ## Core Monthly Diet
 
-### Foods
+These dishes provide a comprehensive homemade food diet superior to 99% of American diets in 2017.
 
+*Rice, Dal And Vegetable Soup*
 1. Brown Rice and Quinoa
 1. Red Lentil and Turnip Dal
 1. Vegetable Soup Greens, Cabbage, Carrots, Radish, Potoes, Prunes w/Miso
 1. Live Pickled Vegetables
 
+*Hummus, Onion And Bread*
 1. Hummus, Raw Onion and Whole Grain Flatbred 
 
+*Sweet Potato Pudding*
 1. Mashed Sweet Potatoes
 
+*Hard Boiled Eggs*
+1. Eggs Hard Boiled In Soup Or Dal 
+
+*Fruit*
 1. Bananas, Yogurt and Ground Flax Seed
 1. Apples & Peanut Butter
 
-1. Eggs Hard Boiled In Soup Or Dal 
-
+*Weekly Treats*
 1. Oily Fish
-1. Roast Vegetables
 1. Chicken Livers Or Gizards
 
-### Drinks
-
+*Drinks*
 1. Green Tea and Fresh Ginger
 1. Black Coffee
 1. Fresh Lime Juice
@@ -62,11 +66,12 @@ Tool Conservative. We do not fetishize complicated tools. Efficient repeatabilit
 1. Water
 1. Baking Soda and Water Rinse
 
-### Condiments
-
+*Condiments*
 1. Fresh lemon, fresh ginger, fresh garlic, fresh chiles
 
 ## Cooking Tools
+
+The cooking tools required are cheap and simple.  
 
 1. Two Large Soup Pots
 1. Two Medium Sauce Pots
@@ -83,6 +88,8 @@ Tool Conservative. We do not fetishize complicated tools. Efficient repeatabilit
 
 
 ## Ingredients 
+
+The dishes feature many ingredients oriented toward low inflammation and strong gut health.
 
 1. [Chickpeas](https://en.wikipedia.org/wiki/Chickpea)
 1. [Red Lentils](https://en.wikipedia.org/wiki/Lentil)
@@ -144,6 +151,18 @@ Tool Conservative. We do not fetishize complicated tools. Efficient repeatabilit
 1. [Coffee](https://en.wikipedia.org/wiki/Coffee)
 
 
+## Recipes.
+
+
+### Brown Rice And Quinoa
+
+### Red Lentil And Turnip Dal
+
+### Vegetable Greens Soup With Miso
+
+### Sweet Potato Custard
+
+### Hummus 
 
 
 ### Quality Criteria

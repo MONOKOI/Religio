@@ -71,7 +71,7 @@ These dishes provide a comprehensive homemade food diet superior to 99% of Ameri
 1. Baking Soda and Water Rinse
 
 *Condiments*
-1. Lemon juice, lemon peel, fresh ginger, fresh garlic, fresh chiles, soy sauce, miso, tahini, yogurt, parsley, cilantro.
+1. Lemon juice, lemon peel, fresh ginger, fresh garlic, fresh chiles, soy sauce, miso, tahini, yogurt, fey, cilantro.
 
 ## Cooking Tools
 

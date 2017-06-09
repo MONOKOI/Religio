@@ -33,19 +33,23 @@ Tool Conservative. We do not fetishize complicated tools. Efficient repeatabilit
 
 ## Core Monthly Diet
 
-These dishes provide a comprehensive homemade food diet superior to 99% of American diets in 2017.
+These dishes provide a comprehensive homemade food diet superior to 99% of American diets in 2017. I redundtantly listed Rice and Pickles with each of the two soups.
 
-*Rice, Dal And Vegetable Soup*
-1. Brown Rice and Quinoa
+*Red Lentil Turnip Dal And Rice*
 1. Red Lentil and Turnip Dal
-1. Vegetable Soup Greens, Cabbage, Carrots, Radish, Potoes, Prunes w/Miso
+1. Brown Rice and Quinoa
+1. Live Pickled Vegetables
+
+*Vegetable Soup And Rice*
+1. Vegetable Soup With Greens And Miso
+1. Brown Rice and Quinoa
 1. Live Pickled Vegetables
 
 *Hummus, Onion And Bread*
 1. Hummus, Raw Onion and Whole Grain Flatbred 
 
 *Sweet Potato Pudding*
-1. Mashed Sweet Potatoes
+1. Sweet Potatoes
 
 *Hard Boiled Eggs*
 1. Eggs Hard Boiled In Soup Or Dal 
@@ -67,7 +71,7 @@ These dishes provide a comprehensive homemade food diet superior to 99% of Ameri
 1. Baking Soda and Water Rinse
 
 *Condiments*
-1. Fresh lemon, fresh ginger, fresh garlic, fresh chiles
+1. Lemon juice, lemon peel, fresh ginger, fresh garlic, fresh chiles, soy sauce, miso, tahini, yogurt, parsley, cilantro.
 
 ## Cooking Tools
 

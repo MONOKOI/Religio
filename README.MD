@@ -1,9 +1,18 @@
 # Religio
 
-MONO KOI Requisites And Regimens
+## How It Works
+
+__Religio__ means *monastic way of life* very much like *Dhamma Vinaya* in Buddhism. 
+
+__MONOKOI__ is a schematic __Religio__ with adaptive Quality Criteria (QC), Standard Operating Procedures (SOP), Risk Management Strategies (RM) And Tool Resources (TR) for *working and retirement cooperative single sex monasteries in safe walking urban neighborhoods featuring safe streets and public transportation*.
+
+
+## Bounding Principles
 
     FOR                                       AGAINST
-    Honesty                                   Obfuscation
+    
+    Teachable                                 Criminal
+    Honesty, Overtness                        Lies, Obfuscation, Euphemism
     Open                                      Secret
     Error Correction                          Error Spreading
     Planning                                  Drama

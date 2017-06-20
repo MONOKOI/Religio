@@ -35,6 +35,7 @@ These are primary distinctions and terms of art for __MONOKOI__: __RHOT__ and __
     Honesty, Overtness                        Lies, Obfuscation, Euphemism
     Open                                      Secret
     Error Correction                          Error Spreading
+    Pairing                                   Blaming
     Planning                                  Drama
     Risk Assessment, Mitigation And Sharing   Risk Taking And Spreading
     Voluntary Outcomes                        Identity
@@ -54,28 +55,23 @@ These are primary distinctions and terms of art for __MONOKOI__: __RHOT__ and __
     Reading Non Fiction                       Watching Filmic Fictions
     Lectures                                  Documentaries
     Reading Business And Security News        Reading Popular Or Conspiracy News
-
-## AGAINST
-
-### Secrecy
-### Drama
-### Risk Taking And Dumping
-### Error
-### Guessing, Assuming Or Doubting
-### Racism
-### Nationalism
-### War
-### Waste
-### Synthetics
-### Manufactured Copies
-### Price Obsession
-### Enslavement And Disposal
-### Low Entertainment Fictions And Secretive Cults
-### Sedentary Driving With Punitive Exercise Regimen
-### Watching Filmic Fictions
-### Reading Popular Conspiracy News
-
+    Being Artfully Entertaining               Consuming Entertainment
+    
+    
+    
 ## Calendars
+
+__52__ weeks per year. Work to plan deliverables every week with training and slack.
+
+__2-4__ seasons per year alter weather, heating, cooling, clothing and transport logistics.
+
+__3-4__ days work per week.
+
+__2-1__ days training per week.
+
+__12-24__ months per focus sprint.
+
+
 
 ## Physical Culture
 

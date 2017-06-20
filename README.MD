@@ -29,6 +29,7 @@ __MONOKOI__ is a schematic __Religio__ with adaptive Quality Criteria (QC), Stan
     Error Correction                          Error Spreading
     Planning                                  Drama
     Risk Assessment, Mitigation And Sharing   Risk Taking And Spreading
+    Voluntary Outcomes                        Identity
     Questioning And Researching               Guessing, Assuming And Doubting
     Sharing With Sharers                      Helping Selfish Or Greedy
     Meritocracy                               Racism, Nationalism, Favoritism

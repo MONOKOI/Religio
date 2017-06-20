@@ -62,7 +62,8 @@ Condition: __Chemical Nerve Demyleniation__
 Condition: __Tympanic Nerve Damage Scarring__
 
     Onset: 2004, High fever
-    Chronic Effect: Mouth pain, balance disorder, ear ringing
+    Chronic Effects: Mouth pain, balance disorder, ear ringing
+    Accute Effects: Aphasia.
     Treatment: None.
 
 Condition: __Torn Soleus Muscle__

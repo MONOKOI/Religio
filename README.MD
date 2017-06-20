@@ -8,15 +8,15 @@ __MONOKOI__ is a schematic __Religio__ with adaptive Quality Criteria (QC), Stan
 
 ## Geometric Constraints
 
-1. Cooperative efficient
-1. Working and Retirement
-2. Single sex
-1. Quiet
-1. Well fed
-1. Monasteries
-1. Walking urban neighborhoods
-1. Safe streets
-1. Public transportation
+1. Cooperative efficient. We share duties, tools, space, demand, technique, accounting and knowledge. 
+1. Working and Retirement. We run small businesses or work outside the house. We can support some retirees on social security payments with part time work. We live as together as early retirees. Our hobby is starting new MONOKOI houses.
+2. Single sex. This is just optional pragmatics for long enduring lives. We socialize freely.
+1. Quiet. No drink, TV, radio or dates in the house. We schedule other programmatic events mostly optional.
+1. Well fed. Homemade vegetarian (no mammals) food.
+1. Monasteries. We live energy, utility and rent densely for ecological and budgetary reasons. 
+1. Walking urban neighborhoods. We do not own cars. Cities provide almost infinite free high culture entertainment.
+1. Safe streets. We can walk to get groceries we do not have delivered.
+1. Public transportation. Public transportation gives access to city delights.
 
 
 ## Bounding Principles

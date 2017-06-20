@@ -2,9 +2,17 @@
 
 ## How It Works
 
-__Religio__ means *monastic way of life* very much like *Dhamma Vinaya* in Buddhism. 
+__Religio__ means *monastic voluntary cooperative way of life* very much like *Dhamma Vinaya* in Buddhism. These are schematic How-To Schedule And Practices Planning Narratives that volunteers enact together for specific durations or entire lifetimes. 
 
-__MONOKOI__ is a schematic __Religio__ with adaptive Quality Criteria (QC), Standard Operating Procedures (SOP), Risk Management Strategies (RM) And Tool Resources (TR) for *cooperative efficient working and retirement single sex quiet and well fed monasteries in walking urban neighborhoods featuring safe streets and public transportation*.
+__MONOKOI__ is a schematic __Religio__ with adaptive Quality Criteria (QC), Precautions (PR), Standard Operating And Schedule Procedures (SOP), Risk Management Strategies (RM) And Tool Resources (TR) for *cooperative efficient working and retirement single sex, safe, quiet and well fed monasteries in walking urban neighborhoods featuring safe streets and public transportation*. 
+
+__MONOKOI__ is __Ecumenically Welcoming__ to adherents of  __Proselytizing Religious High Orthodox Traditions (RHOT)__ including agnostic __Stoicism__. 
+
+We __practice__ __RHOT__ *sabbath liturgies* and *holidays* individually or in groups at local churches __OUTSIDE MONOKOI HOUSES (OMH)__ *individually* or in *sub groups*. We enjoy some entertainments only __OTM__ individually or in sub groups on *selected special* days over *years*.
+
+We __practice__ __RHOT__ *scriptures*, *meditations* and *ethics*  __WITHIN MONOKOI HOUSES (WMH)__ *together* over *everyday normal* days over *years*.
+
+These are primary distinctions and terms of art for MONOKOI: __RHOT__ and __OMH, WMH__
 
 ## Geometric Constraints
 

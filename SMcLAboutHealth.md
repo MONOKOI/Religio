@@ -1,14 +1,17 @@
 # Health History
 
-*All conditions are:*
+*All __Conditions__ are:*
 1. Fully diagnosed and documented
 2. Under current physician management.
 
-*Repeated Misdiagnoses:
+*Repeated __Misdiagnoses__ were:*
 1. Lymes
-1. HIV
-1. Chronic Fatigue
-1. Fybromyalgia
+2. HIV
+3. Chronic Fatigue
+4. Parkinsons
+5. Scoliosus
+6. Congestive Heart Failure
+7. Fybromyalgia
 
 ## Conditions
 
@@ -21,13 +24,13 @@ Condition: __Asthma__
 
 Condition: __Pennicylin Allergy__
 
-    Onset: 1966, Congenital.
+    Onset: 1966, Congenital. Diagnosed 1967.
     Effects: Serum sickness, no anaphylaxis. 
     Treatment: Avoid pennicylin
 
 Condition: __Hypermobility/Loose Joint Syndrome__
 
-    Onset: 1966, Congenital.
+    Onset: 1966, Congenital. Diagnosed in 2005. Misdiagnosed as Scoliosis in 1977. 
     Effects: Pervasive arthritis, weak ankles, large lung capacity.
     Treatment: Walk slowly. Excerise regimen.
 

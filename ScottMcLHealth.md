@@ -22,8 +22,8 @@ Condition: __Pennicylin Allergy__
 Condition: __Hypermobility/Loose Joint Syndrome__
 
     Onset: 1966, Congenital.
-    Effects: Pervasive arthritis.
-    Treatment: None. (see below for mobility restriction)
+    Effects: Pervasive arthritis, weak ankles, large lung capacity.
+    Treatment: Walk slowly. Excerise regimen.
 
 Condition: __Autism__ 
 

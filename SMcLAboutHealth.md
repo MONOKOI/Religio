@@ -59,12 +59,18 @@ Condition: __Seasonal Allergies, Infections__
     Onset: Congenital
     Accute Effects: Sinus and ear infections.
     Chronic Effects: Nasal draining. Sinus headaches.
-    Treatment: Sinus Surgery (2002)
+    Treatment: *Sinus Surgeries* (2002)
     
-Condition: __Chemical Nerve Demyleniation__
+Condition: __Thyroid Cysts__
+    Onset: 2003
+    Accute Effects: None
+    Chronic Effects: Thyroid Enlargement
+    Treatment: Annual ultrasound monitoring
+    . 
+Condition: __Chemical General Nerve Demyleniation__
 
     Onset: 2004, Cipro. Repeated doses through 2011.
-    Chronic Effects: Pervasive pain
+    Chronic Effects: Pervasive pain, light sensitivity, muscle weakness.
     Accute Effects: Cold sweats. Muscle fasciculations (last: 2013).
     Treatment: Dietary and schedule restrictions. Stress avoidance.
 

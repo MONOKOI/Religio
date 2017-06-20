@@ -4,6 +4,12 @@
 1. Fully diagnosed and documented
 2. Under current physician management.
 
+*Repeated Misdiagnoses:
+1. Lymes
+1. HIV
+1. Chronic Fatigue
+1. Fybromyalgia
+
 ## Conditions
 
 Condition: __Asthma__  

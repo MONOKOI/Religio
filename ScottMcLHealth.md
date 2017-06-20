@@ -4,15 +4,15 @@
 1. Fully diagnosed and documented
 2. Under current physician management.
 
-__Conditions__
+## Conditions
 
-    Condition: __Asthma__  
+Condition: __Asthma__  
     Onset: 1966, Congenital.
     Chronic Effects: Shortness of breath and stress.
     Accute Effects: Breathing pain (last: 2016)
     Treatment: Inhaler (rare)
 
-    Condition: __Pennicylin Allergy__
+Condition: __Pennicylin Allergy__
     Onset: 1966, Congenital.
     Effects: Serum sickness, no anaphylaxis. 
 

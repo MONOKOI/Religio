@@ -4,6 +4,8 @@
 1. Fully diagnosed and documented
 2. Under current physician management.
 
+__Conditions__
+
     Condition: __Asthma__  
     Onset: 1966, Congenital.
     Chronic Effects: Shortness of breath and stress.

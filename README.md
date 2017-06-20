@@ -19,6 +19,8 @@ MONO KOI Requisites And Regimens
 ### Conversion And Incorporation
 ### High Orthodox Ecumenical Open Traditions
 ### Daily Walking With Gentle Exercise Regimen 
+### Reading Non Fiction
+### Reading Business And Security News
 
 ## AGAINST
 
@@ -37,6 +39,8 @@ MONO KOI Requisites And Regimens
 ### Enslavement And Disposal
 ### Low Entertainment Fictions And Secretive Cults
 ### Sedentary Driving With Punitive Exercise Regimen
+### Watching Filmic Fictions
+### Reading Popular Conspiracy News
 
 ## Calendars
 

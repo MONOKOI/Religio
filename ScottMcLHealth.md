@@ -17,11 +17,13 @@ Condition: __Pennicylin Allergy__
 
     Onset: 1966, Congenital.
     Effects: Serum sickness, no anaphylaxis. 
+    Treatment: Avoid pennicylin
 
 Condition: __Hypermobility/Loose Joint Syndrome__
 
     Onset: 1966, Congenital.
     Effects: Pervasive arthritis.
+    Treatment: None. (see below for mobility restriction)
 
 Condition: __Autism__ 
 

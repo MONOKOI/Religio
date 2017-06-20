@@ -71,15 +71,47 @@ __2-1__ days training per week.
 
 __12-24__ months per focus sprint.
 
-
+## Paradoxes
 
 ## Physical Culture
 
+### Postures
+
+Sitting meditation
+Walking meditation
+Stretching Tai Chi, Yoga And Core Strength
+Standing cooking and washing
+Walking city life
+Seated reading, writing and discussion
+Walking and metro neighborhood transporation
+Lying sleeping
+
 ### Food
+
+We eat a low inflammation, longevity focused vegetarian (mammal free) homemade food diet.
+
+Safety before fashion and fetish. 
+
+Never imagine food safey is promised by hygeinic packaging. That is a commercial delusion. 
+
+A safe diet is a homemade diet. 
+
+Learning to cook the same dishes in small teams makes light work of eating well. Buying bulk for groups saves packaging waste. 
+
+We do not drink alcholoh __WMH__.
 
 ### Oblutions
 
-### Exercise
+Bathe every day or two days.
+
+Men shave face once or more per week.
+
+Soak once per week in a few drops of anti-fungal tea tree oil.
+
+Shave head for convenience and hygeine.
+
+Keep nails neat and functionally short.
+
 
 ## Spirit Disciplines
 

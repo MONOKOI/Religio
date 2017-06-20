@@ -4,7 +4,19 @@
 
 __Religio__ means *monastic way of life* very much like *Dhamma Vinaya* in Buddhism. 
 
-__MONOKOI__ is a schematic __Religio__ with adaptive Quality Criteria (QC), Standard Operating Procedures (SOP), Risk Management Strategies (RM) And Tool Resources (TR) for *working and retirement cooperative single sex monasteries in safe walking urban neighborhoods featuring safe streets and public transportation*.
+__MONOKOI__ is a schematic __Religio__ with adaptive Quality Criteria (QC), Standard Operating Procedures (SOP), Risk Management Strategies (RM) And Tool Resources (TR) for *cooperative efficient working and retirement single sex quiet and well fed monasteries in walking urban neighborhoods featuring safe streets and public transportation*.
+
+## Geometric Constraints
+
+1. Cooperative efficient
+1. Working and Retirement
+2. Single sex
+1. Quiet
+1. Well fed
+1. Monasteries
+1. Walking urban neighborhoods
+1. Safe streets
+1. Public transportation
 
 
 ## Bounding Principles

@@ -49,7 +49,7 @@ Condition: __Seasonal Allergies, Infections__
 
     Onset: Congenital
     Accute Effects: Sinus and ear infections.
-    Chronic Effects: Nasal draining.
+    Chronic Effects: Nasal draining. Sinus headaches.
     Treatment: Sinus Surgery (2002)
     
 Condition: __Chemical Nerve Demyleniation__

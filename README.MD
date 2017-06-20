@@ -8,7 +8,7 @@ __MONOKOI__ is a schematic __Religio__ with adaptive Quality Criteria (QC), Prec
 
 __MONOKOI__ is __Ecumenically Welcoming__ to adherents of  __Proselytizing Religious High Orthodox Traditions (RHOT)__ including agnostic __Stoicism__. 
 
-We __practice__ __RHOT__ *sabbath liturgies* and *holidays* individually or in groups at local churches __OUTSIDE MONOKOI HOUSES (OMH)__ *individually* or in *sub groups*. We enjoy some entertainments only __OTM__ individually or in sub groups on *selected special* days over *years*.
+We __practice__ __RHOT__ *sabbath liturgies* and *holidays* with local church communities __OUTSIDE MONOKOI HOUSES (OMH)__ *individually* or in *sub groups*. We enjoy some entertainments only __OTM__ individually or in sub groups on *selected special* days over *years*.
 
 We __practice__ __RHOT__ *scriptures*, *meditations* and *ethics*  __WITHIN MONOKOI HOUSES (WMH)__ *together* over *everyday normal* days over *years*.
 

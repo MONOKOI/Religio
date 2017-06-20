@@ -4,7 +4,7 @@
 1. Fully diagnosed and documented
 2. Under current physician management.
 
-Condition: __Asthma__  
+    Condition: __Asthma__  
     Onset: 1966, Congenital.
     Chronic Effects: Shortness of breath and stress.
     Accute Effects: Breathing pain (last: 2016)

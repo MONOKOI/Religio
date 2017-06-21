@@ -50,7 +50,7 @@ Condition: __Auditory Agoraphobia__
 Condition: __Neck And Lumbar Injury__
 
     Onset: 1984. Hospitalized 5 days after car crash.
-    Effects: Cannot lift or bend over. Weather sensitive pain and insomnia. 
+    Effects: Cannot lift, bend over or sit long. Weather sensitive pain and insomnia. 
     Treatment: Exercises, walking, PT and marijuana.
 
 Condition: __Seasonal Allergies, Infections__

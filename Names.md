@@ -16,13 +16,25 @@ Perfect Hour (tm)
 
 Open Source Finance (tm)
 
-Ataraxia
+Better Options (tm)
+
+ECOLOGOS (tm)
 
 # Slogans
 
 Check Your Vices
 
 Help The Helpers
+
+Logos > Nomos
+
+Just Enough
+
+Never Accessorize
+
+I Hate Racists
+
+Fuck Sinners
 
 Hardest Working Lazy People
 

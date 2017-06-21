@@ -58,9 +58,10 @@ Condition: __Seasonal Allergies, Infections__
     Onset: Congenital
     Accute Effects: Sinus and ear infections.
     Chronic Effects: Nasal draining. Sinus headaches.
-    Treatment: *Sinus Surgeries* (2002)
+    Treatment: Sinus Surgeries (2002). Diet.
     
 Condition: __Thyroid Cysts__
+
     Onset: 2003
     Accute Effects: None
     Chronic Effects: Thyroid Enlargement

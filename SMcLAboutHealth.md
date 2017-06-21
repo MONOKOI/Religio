@@ -4,14 +4,13 @@
 1. Fully diagnosed and documented
 2. Under current physician management.
 
-*Repeated __Misdiagnoses__ were:*
-1. Lymes
-2. HIV
-3. Chronic Fatigue
-4. Parkinsons
-5. Scoliosus
-6. Congestive Heart Failure
-7. Fybromyalgia
+*Frequent __Misdiagnoses__ were:*
+
+    Lymes                         Scoliosus
+    HIV                           Parkinsons
+    Chronic Fatigue               Lupus
+    Rheutatoid Arthritis          Fybromyalgia
+    Congestive Heart Failure 
 
 ## Conditions
 

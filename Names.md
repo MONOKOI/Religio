@@ -20,6 +20,13 @@ Better Options (tm)
 
 ECOLOGOS (tm)
 
+NORMAL FORM (tm)
+
+
+NORMALFORM (tm)
+
+NORMFORM (tm)
+
 # Slogans
 
 Check Your Vices

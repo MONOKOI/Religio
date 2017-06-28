@@ -169,6 +169,32 @@ The dishes feature many ingredients oriented toward low inflammation and strong 
 ### Hummus 
 
 
+### Homemade Yogurt
+
+*Ingredients*
+1. 1/2 Gallon Milk (Organic cow or goat)
+1. 1tsp honey or brown sugar (optional)
+1. 1/3 Cup powerdered whole milk
+1. 1/3 Cup yogurt
+
+*Tools*
+1. Stove top, Oven
+1. Large pot
+1. Whisk
+1. Thermometer
+1. Bowls
+
+*Steps*
+ 1. Heat milk to 120F
+ 1. Stir in sweetener.
+ 1. Let milk cool to 105F. A water bath accelerates cooling.
+ 1. Stir in powdered milk and yogurt with a whisk.
+ 1. Poor into clean bowls and cover with a plates.
+ 1. Put bowls into oven (turned off) for 5 hours
+ 1. Store yogurt in refrigerator.
+ 
+ 
+
 ### Quality Criteria
 
 1. Enduring efficient outcomes for enduring efficient people

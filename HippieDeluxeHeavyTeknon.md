@@ -9,6 +9,14 @@ GitHub lets us refine, update and annotate this document. Good annotations add c
 
 ## Quality Criteria
 
+- Low Cost 
+- Comprehensive High Quality Baseline Regimen
+- Easily Homemade From Ingredients With Practice
+- Gut Health
+- Anti-Inflammation
+- Glucose Regulation
+- Vegetarian (No mammals)
+
 Purpose. We have inflammation and weakened immune systems on North America due to innappropriate diet. Diet is our first line of defense. Invasive pills, inhalants or injections are unwise where they conflict against bad diets. Factory foods are specifically predictably not healthy for guts and immune systems.
 
 Slow Time. We take time for homemade cooking away from scheduled TV and outings into car traffic. Cooking teaches process and focus. We should strive to share cook time with others and teach Hippie Deluxe.

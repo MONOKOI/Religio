@@ -166,7 +166,14 @@ The dishes feature many ingredients oriented toward low inflammation and strong 
 ## Recipes.
 
 
-### Brown Rice And Quinoa
+### Brown Rice (Add Quinoa)
+
+1. Soak 1 cup of brown rice for five minutes.
+1. Stir, pour, rinse and strain.
+1. Add 1 3/4 cup water to rice.
+1. Cook in rice cooker
+1. Sprinkle with sprinkle of white vinegar and dash of cinammon
+1. Optionally mix with Quinoa
 
 ### Red Lentil And Turnip Dal
 

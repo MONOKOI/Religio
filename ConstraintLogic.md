@@ -23,7 +23,31 @@
 
 ## About Constraint Logic
 
-- Cost
+- Cost Efficieny
+- Longevity
 - Value
-- Proximity
+- Proximity/Time Efficiency
+- Participation
 - Sustainability
+
+- Safe City Neighborhood
+
+  - Safety
+  - Car Ownership Free
+  - Proximity To Retail
+  - Proximity To Hospitals
+  - Managed Parks
+  - Walking, Biking Health
+  - Free Museums, Talks, Book Clubs, Live Culture
+  - Diverse Local Small Business Sources
+ 
+ - Homemade Vegetarian Food
+ 
+  - Value
+  - Cultured
+  - Cost Effective
+  - Participation
+  
+ - Exercise
+ 
+   -

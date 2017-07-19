@@ -23,13 +23,15 @@
 
 ## About Constraint Logic
 
-- Cost Efficieny
-- Longevity
-- Value
-- Proximity/Time Efficiency
-- Participation
-- Sustainability
-
+- Constraints
+  - Cost Efficieny
+  - Longevity
+  - Sustainability
+  - Value
+  - Teachability
+  - Proximity/Time Efficiency
+  - Participation
+  
 - Safe City Neighborhood
 
   - Safety

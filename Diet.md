@@ -1,5 +1,26 @@
 # Hippie Deluxe
 
+## At Home Monthly Diet Summary
+
+1. Soup Boiled Hard Eggs
+1. Chicken Greens Soup
+1. Lentil Dal w/Veges
+1. Black Bean Curry w/Veges
+1. Stewed Chicken Gizards w/Prunes
+1. Hummus w/Flatbread and Onions
+1. Brown Rice w/Grains
+1. Sweet Potato Custard
+1. Labneh Yogurt Cheese
+1. Peanut, Sunflower, Almond Butter 
+1. Pickled Turnips, Greens, Fennel, Onions
+1. Cranberry Apple Sauce
+1. Fermented Cranberries
+1. Fermented Mustard
+1. Apples, Bananas
+1. Green Tea, Black Coffee
+1. Aromatics, Spices, Oils, Sea Salt, Citrus, Herbs
+1. Oily fish weekly
+
 ## Representations
 
 This is not a commemorative or style guide cookbook. These recipes are are not targets but guides for immune and digestive systems needing effective regimented managements. The targets are better bowels, immune systems, and ways of suriving days skillful heads and hands at work together. Let no glitter of any representation delude its merit.

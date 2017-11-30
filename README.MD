@@ -1,8 +1,27 @@
-# Religio
+# MONOKOI - Koi Ponds for Monks
 
-## How It Works
+## About This Document
 
-__Religio__ means *monastic voluntary cooperative way of life* very much like *Dhamma Vinaya* in Buddhism. These are schematic How-To Schedule And Practices Planning Narratives that volunteers enact together for specific durations or entire lifetimes. 
+1. This document is not an immersive wisdom teaching but a schematic for possibly lifelong voluntary contract fulfillment.
+
+## MONOKOI
+
+1. __MONO__ signifies single people. Such people may be divorced, in ill health or possibly traumatized. *MONOS* were singles and give us our word Monks today. There are several kinds of monks within Christendom explained elsewhere.
+1. __KOI__ are fish that grow and live longer based on their care and feeing in *Koi Ponds.* MONOKOI is an exoteric framework for inter-religious combitable exploration of esoteric or hesychastic lives of roughly Orthodox Chrisian, Suffi Muslim or Theravada Buddhist lives of prayer, meditation, discernment and contemplation. Monks swim in schools like fish.
+1. __MONOKOI__ is a movement for city monastic __Inter-Religious__ religious orders. That means monks within a house live out daily and annual liturgical lives that are not punitive but not shared and thus not arbitrary.
+1. __Religio__ Religion means *monastic voluntary cooperative way of life* as in *Religious Order.* That is what religion means here. MONOKOI encourage monks to attend church services outside the house or possibly run Stoic study groups and liturgy.
+
+### ON-GRID CITY MONKS
+
+1. HOUSING: MONOKOI live in neatly furnished group homes to save time and money on utilities, tools and food. 
+1. TRANSPORT: MONOKOI do not own personal passenger cars.
+1. FOOD: MONOKOI eat a mostly vegetarain (chicken-fish) homemade diet in the house. Full vegetarian is optional.
+1. ENERGY: MONOKOI consume only 40% of average american Watts/day living on grid.
+
+### INTER-RELIGIOUS
+
+1. __MONOKOI__ inter-religious life is anchored by high orthodox literate traditions of proselytizing religions including Pali Buddhism, Orthodox Christendom and Stoicism.
+1. Inter-religious traditions are our life long on-ramps to philosophy, maths, architecture, fine, performing and craft arts.
 
 __MONOKOI__ is a schematic __Religio__ with adaptive Quality Criteria (QC), Precautions (PR), Standard Operating And Schedule Procedures (SOP), Risk Management Strategies (RM) And Tool Resources (TR) for *cooperative efficient working and retirement single sex, safe, quiet and well fed monasteries in walking urban neighborhoods featuring safe streets and public transportation*. 
 

@@ -9,7 +9,7 @@
 1. What is __INTER-SPIRITUAL__? We might as well say __INTER-SCRIPTURAL__. High orthodox enduring religious traditions preserve large libraries of books under constant interpretation and translation. __MONOKOI__ monks involve life long comparative scriptural study and interpretation as one part of their shred __RELIGIOUS__ lives. __MONOKOI__ sees scriptural scholarly traditions as continuous roads to the flowering of their enduring philosophical traditions.
 1. Is __MONOKOI__ a cult? __MONOKOI__ is not a cult by most popular scary definitions. First, __MONOKOI__ has no secrets worth keeping outside incidental necessary contactual matters. __MONOKOI__ both institutionally and individually attempt to live out open biolgraphies under sound accounting where possible. Second, __MONOKOI__ do not engage in family life dramas. Third, __MONOKOI__ are firmly bound to proselytizing global enduring scriptural religions and the religious and secular institutions that preserve their traditions over time and across continents.  
 1. What __SCRIPTURAL TRADITIONS__? __MONOKOI__ welcomes long tradition *proselytizing* or *recruiting* scriptural traditions. Those traditions cannot be hateful toward other scriptural traditions or bound by privileged genetic birth relationships.  
-1. What is a __HOUSE__? A __MONOKOI HOUSE__ is any dwelling where 3 or more __MONOKOI__ live out lives together.
+1. What is a __HOUSE__? A __MONOKOI HOUSE__ is any dwelling where 3 or more __MONOKOI__ live out lives together. Most __MONOKOI__ regimens apply to __MONKS__ *in the __HOUSE__* with separate options available *outside the house*.  
 
 
 ## MONOKOI REGIMENS

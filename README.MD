@@ -1,7 +1,275 @@
-# MONOKOI 
+# MONOKOI Monasteries
 
-## FAQ
+## Religious Orders. Coop Living for Singles.
 
+__MONOKOI__ is the Greek plural of "monk," meaning "single person" or "unmarried person."
+
+Religious orders are cooperative voluntary living arrangements,  residential or otherwise, for single "monks."
+
+Residential coops are "houses."
+
+Using Christian terminology, coop house residents are "cenobites" and non-residents are "hermits."
+
+
+## What Does "Monk" Have To Do With Sex? Nothing.
+
+"Single" means unmarried, not sexless. 
+
+Monasteries don't permit conjugal guests, but monks might somehow enjoy consensual sexual relationships outside the monasteries.
+
+"Single" status concerns marital legal inheritance relationships, not sexual activities.
+
+## Who Makes Good Monks?
+
+Anyone single, divorced, disabled or otherwise disaffected with married life or solitary "dating" life.
+
+## Written Sets of Rules
+
+Monks organize themselves around written sets of rules, including written rules concerning how such sets of rules might be altered going forward.
+
+The written sets of rules are not punitive. 
+
+Rule sets are more like guarantees than restrictions. 
+
+Rules are for groups of volunteers living together.
+
+Volunteers "guarantee" the rules for each other, other monks also doing likewise.
+
+## For Anyone, Not Everyone
+
+Any given religious order aims for some suitability to nearly anyone, but not to everyone.
+
+## 4 Paths Up 1 Mountain
+
+There are 4 paths up 1 mountain
+
+- Pythagorean Philosophers
+- Buddhist Monastics
+- Christian Monastics
+- Muslim Suffis
+
+These 4 paths share important features
+
+- Recruiting. Not ethno-nationalist.
+- Portable. Not geography-bound.
+- Written. Not oral.
+- Publicized. Not secret.
+- Large. Not small sects.
+- Enduring. Not recent sects.
+
+What Philosophers, Buddhists, Christians and Muslims can we accomodate? 
+
+Monoxoi Philosophers are those kind happy for Monoxoi Buddhists. Monoxoi Muslims are happy for Monoxoi Christians. And so forth.
+
+Shared written literacy is a prerequisite of all monoxoi monks.
+
+## Peaceketeers
+
+Nations states come and go. Friends become foes. Foes become friends. 
+
+Monoxoi monks cannot subject the peaceful and intergenerational affairs of their their houses to such whimsies.
+
+Monoxoi monks live as adopted families, no matter their mother tongues or countries of origin.
+
+Monoxoi religious orders and houses are meant to endure even where nation states and regimes disappear.
+
+## Pacify is a Verb
+
+Monoxoi monks are not passive.
+
+Monks are tamers of men needing taming.
+
+## Skin Color
+
+Monasteries are always mixed skin color and religious tradition. 
+
+## Inherently Plural
+
+Religious orders are inherently plural and presumed compatible with one another under a larger umbrella organization providing shared support services.
+
+Religious orders are akin to different gyms, each offering different machines, trainers, locations and schedules. Religious orders are akin to different restaurants, each offering different menues. 
+
+## Not Secret. Written. 
+
+But the machines, trainers and menus are all written down. 
+
+The shared routines and regimens of religious orders are not secret ones.
+
+Religious orders aim to make their rules transparent and open to public scrutiny.
+
+## What About Problems?
+
+Monasteries are error correcting clubs against inevitable problems, obstacles and setbacks.
+
+## Shared Intentions are Jobs
+
+Intentions are businesses operated by monasteries.
+
+Some monasteries come with "family business jobs."
+
+Without spouses, children and recreational luxuries, monks are nearly always low cost service providers.
+
+Monasteries aim for shorter work weeks and longer vacations than commercial jobs.
+
+
+## Internal Charity
+
+Internal charity means housing disabled, homeless, orphaned, elderly or otherwise disadvantaged monks.
+
+## External Charity
+
+External charity means operating charitable organizations based on donations.
+
+## No TV
+
+40 monks won't agree on what to watch on TV. So we don't watch TV. 
+
+Monks can watch TV sports at local bars.
+
+## No Commuter Cars
+
+Monks share commercial vehicles where appropriate. Commercial vehicles pay for themselves.
+
+Otherwise, monks do not own cars. Monks can rent cars when necessary.
+
+Money saved on cars is invested in new monasteries.
+
+## Great Food. 
+
+Monks prepare great food. 
+
+Few or no Americans likely eat better lifelong diets than monks.
+
+
+## Model Diet
+
+Different orders feature compliant menues, but the model diet is the following "Orthodox Christian Monastic" diet.
+
+- 2 days lacto-octo vegetarian
+- 4 days lacto-octo vegetarian, fish/foul
+- 1 days lacto-octo vegetarian, fish/foul, meat.
+
+Dishes and meals enjoy these qualities:
+
+- Nutrient dense
+- Biodiverse
+- Bioavailable
+- Traditonal Preparations
+
+NONE is always a good amount of fish/foul and meat. These menus are  guarantees of available options, not impositions. 
+
+Envision a homemade indian curry restaurant with homemade breads, cheeses and pickles and some foul and meat on sticks. Then customize from there.
+
+## Fasting
+
+Monastic orders might or might not include fasting regimens, usually just daytime fasting, or extended fasting from fish, foul and meat.
+
+Fasting is not punitive.
+
+Fasting excludes infants, sick, pregant and elderly.
+
+Fasting enhances immune system performance.
+
+## Intoxicants
+
+Monks drink beer, wine and mead they make themselves.
+
+Monks do not buy bottled beer, wine or mead for consumption within the houses.
+
+Monks smoke marijuana they grow themselves.
+
+Monks do not drink hard liquor in the houses.
+
+Monks do no use recreational opiate or amphetamine narcotics.
+
+Monks confine hallucinagens to ritual uses.
+
+NONE is always a great amount for all monks.
+
+## Exercise
+
+What is the best exercise regimen for lifelong mental acuity?
+
+Monks do not compete. 
+
+Monks do not risk injury.
+
+Monk exercise concerns longevity, never sex-appeal. 
+
+- Yoga 
+- Tai chi
+- Qigong
+- Kalisthenics
+- Massage
+- Seated Meditations
+- Walking Meditations
+- Strolls and Hikes
+- Self-Defense Training 
+
+## Live Performing Arts, Retreat, Pilgrimage
+
+Monks share classical music, jazz music, live theater, museum trip, author lectures, study group and ethnic-restaurant activities. 
+
+Non-entertainment cultural costs are mostly low.
+
+Retreats are trips to rustic outdoor locations.
+
+Pilgrimages are trips to Eurasian holy sites.
+
+## Study Groups
+
+Monks within religios orders share comparative-religious, classical, historical and philosophical studies.
+
+Monks also share practical managerial studies pertinent to their Family Businesses.
+
+## Writing Groups
+
+Monks write and edit articles on these studies and their relation to monastic lives.
+
+We encourage monks to write and edit articles together instead of singularly.
+
+## Clothing. Grooming.
+
+Monks where some form of habit permitting more or less variations.
+
+Monks are not secretly monks.
+
+Monk clothing is comfortable, sturdy, weather appropriate, attractive, healthy and affordable.
+
+Monk clothing does not display rank.
+
+Some religious orders might use colors to attract attention to themseles.
+
+Head and facial hair customs are specific to religious orders. 
+
+Bathing is regular and therapeutic.
+
+## 
+
+## Finances? Minimize TCO. Buy Wholesale. Save, Invest, Expand.
+
+TCO means Total Cost of Ownership. The TCO of owning a car is far greater than the retail price of the car.
+
+Everything is like that. Even things people give us suffer costs of ownership.
+
+Durable Goods last more than 3 years. 
+
+A great guitar can last decades and even increase in value.
+
+One pound of spearmint leaves costs far less per-ounce than 1/8 ounce of spearmint leaves.
+
+Coops save money with tool sharing, service sharing and wholesale pricing and then invest those savings into expansion.
+
+## Always Expanding and Recruiting
+
+
+
+## What Rules? 
+
+
+
+
+## 
 1. What is __MONOKOI__? __MONOKOI__ is a quality critera daily living architecture for 21st C. inter-spiritual tradition monks.
 1. What are __MONKS__? __MONKS__ are single adults who coexist cooperatively in voluntarily contractual relatioinships in lieu of family formation or dating lives. We refer to __MONOKOI__ __MONKS__ themselves as __MONOKOI__. __MONKS__ are traditionally and here not ordained clergy members but lay people.
 1. Why __MONOKOI__? __MONOS__ just means *single* in Greek antiquity like *single* people tody. Like Buddhists centuries early, *monastic* communities of single people not rearing families were among early recorded Christian communities. Japanese architect ponds for cherished __KOI__ fish that thrive under good conditions. Thus __MONOKOI__ guidelines helps *architect* regimens and expectated outcomes for cohabitating __MONKS__. __KOI__ plays on the notion of *philosophers swimming in schools* in the Western idiom.   
@@ -15,7 +283,6 @@
 ## MONOKOI REGIMENS
 
 ### MONOKOI DIETARY REQUISITES
-
 ### MONOKOI GEOGRAPHY REQUISITES
 
 ### MONOKOI TRAINING REQUISITES

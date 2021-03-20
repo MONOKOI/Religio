@@ -23,6 +23,21 @@ Monasteries don't permit conjugal guests, but monks might somehow enjoy consensu
 
 Anyone single, divorced, disabled or otherwise disaffected with married life or solitary "dating" life.
 
+## Inherently Plural
+
+Religious orders are inherently plural and presumed compatible with one another under a larger umbrella organization providing shared support services.
+
+            Mother Ship (Rotational Admins)
+                  |
+            =================================
+            |           |           |
+            Order-A     Order-B     Order-C 
+                        (houses)    (houses)
+                        
+Religious orders are akin to different gyms, each offering different machines, trainers, locations and schedules. 
+
+Religious orders are akin to different restaurants, each offering different menues. 
+
 ## Written Sets of Rules
 
 Monks organize themselves around written sets of rules, including written rules concerning how such sets of rules might be altered going forward.
@@ -83,11 +98,6 @@ Monks are tamers of men needing taming.
 
 Monasteries are always mixed skin color and religious tradition. 
 
-## Inherently Plural
-
-Religious orders are inherently plural and presumed compatible with one another under a larger umbrella organization providing shared support services.
-
-Religious orders are akin to different gyms, each offering different machines, trainers, locations and schedules. Religious orders are akin to different restaurants, each offering different menues. 
 
 ## Not Secret. Written. 
 

@@ -1,38 +1,45 @@
 # MONOKOI Monasteries
 
-## Religious Orders. Coop Living for Singles.
+## Coop Living for Singles. Religious Orders.
 
 __MONOKOI__ is the Greek plural of "monk," meaning "single person" or "unmarried person."
 
-Religious orders are cooperative voluntary living arrangements,  residential or otherwise, for single "monks."
+Religious orders are voluntary, cooperative and written living arrangements,  residential or otherwise, for single "monks."
 
 Residential coops are "houses."
 
 Using Christian terminology, coop house residents are "cenobites" and non-residents are "hermits."
 
-
 ## What Does "Monk" Have To Do With Sex? Nothing.
-
-"Single" means unmarried, not sexless. 
-
-Monasteries don't permit conjugal guests, but monks might somehow enjoy consensual sexual relationships outside the monasteries.
 
 "Single" status concerns marital legal inheritance relationships, not sexual activities.
 
+Monasteries don't permit conjugal guests, but monks might somehow enjoy consensual sexual relationships outside the monasteries.
+
 ## Who Makes Good Monks?
 
-Anyone single, divorced, disabled or otherwise disaffected with married life or solitary "dating" life.
+Anyone single, divorced, disabled, fired, lonely, stranded or otherwise disaffected with married life or solitary "dating" life.
 
+## What Arrangements
+
+            Gymnos                  Sophia                  Fruits
+            -------------------     ------------            ----------------
+            Food                    History                 Readings
+            Exercises               Philosophy              Performing Arts
+            Meditations             Music                   Retreats
+                                    How-To Trainings        Pilgrimages
+                                    
+                                    
 ## Inherently Plural
 
 Religious orders are inherently plural and presumed compatible with one another under a larger umbrella organization providing shared support services.
 
-            Mother Ship (Rotational Admins)
+            Mother Ship (Shared Administrative Services, Rotational)
                   |
             =================================
             |           |           |
             Order-A     Order-B     Order-C 
-                        (houses)    (houses)
+                        (Houses)    (Houses)
                         
 Religious orders are akin to different gyms, each offering different machines, trainers, locations and schedules. 
 
@@ -53,6 +60,8 @@ Volunteers "guarantee" the rules for each other, other monks also doing likewise
 ## For Anyone, Not Everyone
 
 Any given religious order aims for some suitability to nearly anyone, but not to everyone.
+
+## Inter-Religious, Inter-Racial, Pacifying
 
 ## 4 Paths Up 1 Mountain
 
@@ -122,89 +131,73 @@ Without spouses, children and recreational luxuries, monks are nearly always low
 Monasteries aim for shorter work weeks and longer vacations than commercial jobs.
 
 
-## Internal Charity
+## Internal and External Charity
 
 Internal charity means housing disabled, homeless, orphaned, elderly or otherwise disadvantaged monks.
 
-## External Charity
-
 External charity means operating charitable organizations based on donations.
 
-## No TV
+## No TV, No Commuter Cars
 
-40 monks won't agree on what to watch on TV. So we don't watch TV. 
-
-Monks can watch TV sports at local bars.
-
-## No Commuter Cars
+40 monks won't agree on what to watch on TV. So we don't watch TV. Monks who want to watch TV can watch TV at local bars.
 
 Monks share commercial vehicles where appropriate. Commercial vehicles pay for themselves.
 
-Otherwise, monks do not own cars. Monks can rent cars when necessary.
+Otherwise, monks do not own cars. Monks can rent cars when necessary. Money saved on cars is invested in new monasteries for more monks.
 
-Money saved on cars is invested in new monasteries.
+## Clean Houses. Great Food. 
 
-## Great Food. 
+Monks prepare great food everyday inside their orderly, decorative and clean houses. Monastic organizations minimize cleaning burdens and maximize food quality. Few or no Americans likely eat better lifelong diets than monks.
 
-Monks prepare great food. 
+## Model IndoX Diet
 
-Few or no Americans likely eat better lifelong diets than monks.
+Different orders feature compliant menues, but the model diet from which we spring variants is the following "Orthodox Christian Monastic" diet. NONE is always a good amount of fish/foul and meat. These menus are  guarantees of available options, not impositions. 
 
-
-## Model Diet
-
-Different orders feature compliant menues, but the model diet is the following "Orthodox Christian Monastic" diet.
-
-- 2 days lacto-octo vegetarian
-- 4 days lacto-octo vegetarian, fish/foul
-- 1 days lacto-octo vegetarian, fish/foul, meat.
+- 2 days lacto-octo vegetarian                              (fish, fowl, meat stocks permitted)
+- 4 days lacto-octo vegetarian, fish/foul                   (fish, fowl, meat stocks permitted)
+- 1 days lacto-octo vegetarian, fish/foul, meat.            (fish, fowl, meat stocks permitted)
 
 Dishes and meals enjoy these qualities:
 
 - Nutrient dense
 - Biodiverse
 - Bioavailable
+- Pro/Pre-Biotic
+- Allergy Sensitive
+- Anti-Inflammatory
 - Traditonal Preparations
 
-NONE is always a good amount of fish/foul and meat. These menus are  guarantees of available options, not impositions. 
+Biodiversity 
 
-Envision a homemade indian curry restaurant with homemade breads, cheeses and pickles and some foul and meat on sticks. Then customize from there.
+- Herbs, Spices
+- Legumes
+- Seeds
+
+Envision a homemade Indian, Indochinese or Indonesian restaurant with homemade curries, breads, cheeses, pickles and some foul and meat on sticks.
+
+Then customize from there.
 
 ## Fasting
 
 Monastic orders might or might not include fasting regimens, usually just daytime fasting, or extended fasting from fish, foul and meat.
 
-Fasting is not punitive.
-
-Fasting excludes infants, sick, pregant and elderly.
-
-Fasting enhances immune system performance.
+Fasting is not punitive. Fasting excludes infants, sick, pregant and elderly. Fasting enhances immune system performance.
 
 ## Intoxicants
 
-Monks drink beer, wine and mead they make themselves.
-
-Monks do not buy bottled beer, wine or mead for consumption within the houses.
+Monks drink beer, wine and mead they make themselves. Monks do not buy bottled beer, wine or mead for consumption within the houses.
 
 Monks smoke marijuana they grow themselves.
 
-Monks do not drink hard liquor in the houses.
-
-Monks do no use recreational opiate or amphetamine narcotics.
+Monks do not drink hard liquor in the houses. Monks do no use recreational opiate or amphetamine narcotics.
 
 Monks confine hallucinagens to ritual uses.
 
-NONE is always a great amount for all monks.
+NONE is always a great amount of intoxicants. But we don't waste money on cheap bottled intoxicants.
 
 ## Exercise
 
-What is the best exercise regimen for lifelong mental acuity?
-
-Monks do not compete. 
-
-Monks do not risk injury.
-
-Monk exercise concerns longevity, never sex-appeal. 
+What is the best exercise regimen for lifelong mental acuity? Monks do not compete. Monks do not risk injury. Monk exercise concerns longevity, never sex-appeal. 
 
 - Yoga 
 - Tai chi
